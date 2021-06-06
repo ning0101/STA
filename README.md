@@ -3,7 +3,6 @@
 ### Description 
 
 -將政府公開平台的opendata進行資料標準化，並放入OGC SensorThingsAPI數據模型中。
--OGC SensorThingsAPI: https://developers.sensorup.com/docs/zh-tw/
 
 
 
