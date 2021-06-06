@@ -11,11 +11,11 @@ OGC SensorThingsAPI: https://developers.sensorup.com/docs/zh-tw/
 
 == ⭐ Highlight ==
 
-**資料前處理
+**資料前處理:**
 *不同檔案的讀取 ex:json, csv, xml
 *時間格式的處理 ex: 2021-06-06, 2021/6/6
 
-**資料標準化
+**資料標準化:**
 *針對不同的檔案，寫不同的讀取方式(reader)，以放入SensorThingsAPI模型中
 *使用PostgreSQL存取資料
 
