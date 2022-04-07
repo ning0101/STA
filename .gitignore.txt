@@ -1,0 +1,4 @@
+/Water_Quality_month
+/Weather_30
+/Weather_now
+/Weather_automatic/bin/weatherstation/aqi
