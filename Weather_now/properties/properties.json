@@ -1,9 +1,0 @@
-{
-    "URL_STA": "http://localhost:8080/SensorThingsAPI/v1.0",
-    
-    "URL_EPA_AQI_STATION": "http://opendata.epa.gov.tw/ws/Data/AQXSite/?$orderby=SiteName&$skip=0&$top=1000&format=xml",
-    "URL_EPA_AQI_DATA": "http://opendata2.epa.gov.tw/AQI.xml",
-
-    "FEEDING_FREQUENCY": 1800000,
-    "SENSOR_URN_PREFIX": "urn:epa:station:aqi:"
-}
